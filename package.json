@@ -1,0 +1,16 @@
+{
+  "name": "aho-main",
+  "version": "1.0.0",
+  "description": "Demonstration of Aho-Corasick in Python, showing how it is a generalisation of Knuth-Morris-Pratt.",
+  "main": "aho_corasick_dict_links.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node aho_corasick_dict_links.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
